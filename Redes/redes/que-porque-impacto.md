@@ -2,7 +2,7 @@
 description: ¿Qué?¿Porqué?¿Impacto?
 ---
 
-# Actividad introducción a redes
+# 🛜 Actividad introducción a redes
 
 **¿Qué es una red?**
 

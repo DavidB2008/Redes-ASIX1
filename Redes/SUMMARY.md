@@ -8,4 +8,4 @@
 
 ## Redes
 
-* [Actividad introducción a redes](redes/que-porque-impacto.md)
+* [🛜 Actividad introducción a redes](redes/que-porque-impacto.md)
