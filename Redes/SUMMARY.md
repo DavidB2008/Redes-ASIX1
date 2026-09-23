@@ -2,7 +2,7 @@
 
 * [whoami](README.md)
 
-## Introducción a las Redes
+## REDES
 
-* [📝 Documentación de gitbook](introduccion-a-las-redes/documentacion-de-gitbook/README.md)
-  * [¿Qué?¿Porqué?¿Impacto?](introduccion-a-las-redes/documentacion-de-gitbook/que-porque-impacto.md)
+* [📝 Documentación de gitbook](redes/documentacion-de-gitbook/README.md)
+  * [¿Qué?¿Porqué?¿Impacto?](redes/documentacion-de-gitbook/que-porque-impacto.md)
