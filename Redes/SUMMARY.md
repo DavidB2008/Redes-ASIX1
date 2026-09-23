@@ -2,7 +2,10 @@
 
 * [whoami](README.md)
 
-## REDES
+## Pasos a seguir Gitbook
 
-* [📝 Documentación de gitbook](redes/documentacion-de-gitbook.md)
+* [📝 Documentación de gitbook](pasos-a-seguir-gitbook/documentacion-de-gitbook.md)
+
+## Redes
+
 * [Actividad introducción a redes](redes/que-porque-impacto.md)
