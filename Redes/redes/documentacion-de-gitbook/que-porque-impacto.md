@@ -2,27 +2,20 @@
 
 * **¿Qué es una red?**
 
-&#x20;    Un conjunto de dispositivos conectados entre sí que comparten información,  &#x20;
+Un conjunto de dispositivos conectados entre sí que comparten información,
 
-&#x20;    recursos y servicios.
-
-
+recursos y servicios.
 
 * **¿Cuál es su importancia?**
 
 Permite compartir información, recursos y servicios entre dispositivos, facilitando la comunicación, el acceso a datos y el trabajo conjunto.​
 
 * Explícame por qué se considera que las redes de ordenadores son el sistema nervioso de la sociedad actual usando un ejemplo real de interrupción de servicio a gran escala.
-
-
-
 * **¿Cuál es el ámbito de trabajo y salidas profesionales?**
 
 El ámbito de trabajo es trabajar en departamentos de tecnología (IT) de cualquierempresa mediana o grande, operadoras de telecomunicaciones (ISPs), centros de datos (_DataCenters_) y consultorías tecnológicas.
 
 Las salidas profesionales son: administrador de redes, técnico de soporte de sistemas,arquitecto de infraestructuras, especialista en redes inalámbricas y consultor de seguridadperimetral.
-
-[https://www.xfp.es/blog/salidas-profesionales-asir?](https://www.xfp.es/blog/salidas-profesionales-asir?)
 
 ​​​
 
@@ -48,10 +41,26 @@ Herramientas del día a día: Plataformas para centralizar logs y alertas (SIEM 
 
 Los físicos son los elementos que permiten conectar la red, como cables, fibra óptica o Wi-Fi.Los lógicos son la forma en la que se organiza y comunica la red, como las direcciones IP y los protocolos.​
 
-¿Qué dispositivos de red tenemos que aprender a configurar? Tendremos que aprender a configurar routers, switches, puntos de acceso y firewalls.&#x20;
+¿Qué dispositivos de red tenemos que aprender a configurar? Tendremos que aprender a configurar routers, switches, puntos de acceso y firewalls.
 
 ¿Qué son los protocolos? Son un conjunto de reglas y normas estandarizadas que permiten que los dispositivos de una red se entiendan y se comuniquen entre sí.
 
 ¿Cuál es su uso? Sirve para que los dispositivos se entiendan y puedan comunicarse de forma ordenada. En el día a día los usamos para cosas tan cotidianas como navegar por Internet, enviar archivos, mandar correos o conectarnos a otros equipos.
 
-[FlightRadarhttps://www.flightradar24.com/32.75,-9.59/4<br>](flightradarhttps://www.flightradar24.com/32.75,-9.59/4)
+
+
+### LINKS
+
+### LINKS
+
+[Documentación oficial de GitBook](https://gitbook.com/docs)
+
+[Mapa de cables submarinos - TeleGeography](https://www.submarinecablemap.com/)
+
+[Aviones en vuelo - FlightRadar24](https://www.flightradar24.com/)
+
+[Barcos en tiempo real - MarineTraffic](https://www.marinetraffic.com/)
+
+[Satélites en tiempo real - N2YO](https://www.n2yo.com/)
+
+[Salidas profesionales de ASIR](https://www.xfp.es/blog/salidas-profesionales-asir)
