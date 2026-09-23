@@ -54,4 +54,5 @@ Los físicos son los elementos que permiten conectar la red, como cables, fibra 
 
 ¿Cuál es su uso? Sirve para que los dispositivos se entiendan y puedan comunicarse de forma ordenada. En el día a día los usamos para cosas tan cotidianas como navegar por Internet, enviar archivos, mandar correos o conectarnos a otros equipos.
 
-[FlightRadarhttps://www.flightradar24.com/32.75,-9.59/4<br>](flightradarhttps://www.flightradar24.com/32.75,-9.59/4)
+[FlightRadar
+https://www.flightradar24.com/32.75,-9.59/4<br>](flightradarhttps://www.flightradar24.com/32.75,-9.59/4)
