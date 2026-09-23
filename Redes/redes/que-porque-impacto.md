@@ -1,4 +1,8 @@
-# ¿Qué?¿Porqué?¿Impacto?
+---
+description: ¿Qué?¿Porqué?¿Impacto?
+---
+
+# Actividad introducción a redes
 
 **¿Qué es una red?**
 
