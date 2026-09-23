@@ -8,4 +8,5 @@
 
 ## Redes
 
+* [📕 Introducción a las redes](redes/introduccion-a-las-redes.md)
 * [🛜 Actividad introducción a redes](redes/que-porque-impacto.md)
