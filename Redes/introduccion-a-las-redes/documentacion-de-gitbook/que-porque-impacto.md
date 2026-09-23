@@ -1,15 +1,20 @@
 # ¿Qué?¿Porqué?¿Impacto?
 
-* **¿Qué es una red?**
+**¿Qué es una red?**
 
 Un conjunto de dispositivos conectados entre sí que comparten información, recursos y servicios.
 
-* **¿Cuál es su importancia?**
+
+
+**¿Cuál es su importancia?**
 
 Permite compartir información, recursos y servicios entre dispositivos, facilitando la comunicación, el acceso a datos y el trabajo conjunto.​
 
-* Explícame por qué se considera que las redes de ordenadores son el sistema nervioso de la sociedad actual usando un ejemplo real de interrupción de servicio a gran escala.
-* **¿Cuál es el ámbito de trabajo y salidas profesionales?**
+Explícame por qué se considera que las redes de ordenadores son el sistema nervioso de la sociedad actual usando un ejemplo real de interrupción de servicio a gran escala.
+
+
+
+**¿Cuál es el ámbito de trabajo y salidas profesionales?**
 
 El ámbito de trabajo es trabajar en departamentos de tecnología (IT) de cualquierempresa mediana o grande, operadoras de telecomunicaciones (ISPs), centros de datos (_DataCenters_) y consultorías tecnológicas.
 
@@ -17,7 +22,7 @@ Las salidas profesionales son: administrador de redes, técnico de soporte de si
 
 ​​​
 
-* Compara el día a día de un Técnico en Sistemas y Redes (perfil ASIX) con el de un Analista de Ciberseguridad/SecOps (perfil universitario). ¿Qué herramientas clave usa cada uno?
+Compara el día a día de un Técnico en Sistemas y Redes (perfil ASIX) con el de un Analista de Ciberseguridad/SecOps (perfil universitario). ¿Qué herramientas clave usa cada uno?
 
 Técnico ASIX (Enfoque práctico y directo):
 
@@ -35,7 +40,7 @@ Herramientas del día a día: Plataformas para centralizar logs y alertas (SIEM 
 
 ​
 
-* **¿Cuáles son los fundamentos físicos y lógicos a considerar?**
+**¿Cuáles son los fundamentos físicos y lógicos a considerar?**
 
 Los físicos son los elementos que permiten conectar la red, como cables, fibra óptica o Wi-Fi.Los lógicos son la forma en la que se organiza y comunica la red, como las direcciones IP y los protocolos.​
 
