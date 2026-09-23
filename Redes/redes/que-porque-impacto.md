@@ -16,7 +16,7 @@ Permite compartir información, recursos y servicios entre dispositivos, facilit
 
 Explícame por qué se considera que las redes de ordenadores son el sistema nervioso de la sociedad actual usando un ejemplo real de interrupción de servicio a gran escala.
 
-
+Se dice que las redes de ordenadores son el sistema nervioso de la sociedad porque permiten que la información llegue rápidamente a personas, empresas y servicios. Por ejemplo, cuando WhatsApp, Instagram y Facebook se cayeron en 2021, millones de personas no pudieron comunicarse ni trabajar con normalidad. Esa interrupción mostró cuánto dependemos de las redes en el día a día.
 
 **¿Cuál es el ámbito de trabajo y salidas profesionales?**
 
@@ -67,3 +67,5 @@ Los físicos son los elementos que permiten conectar la red, como cables, fibra 
 {% embed url="https://www.n2yo.com/" %}
 
 {% embed url="https://www.xfp.es/blog/salidas-profesionales-asir" %}
+
+{% embed url="https://orain.eus/es/ikusmiran/tecnologia/2021/10/04/caida-de-whatsapp-facebook-e-instagram-4-de-octubre-de-2021/" %}
