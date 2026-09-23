@@ -2,9 +2,7 @@
 
 * **¿Qué es una red?**
 
-Un conjunto de dispositivos conectados entre sí que comparten información,
-
-recursos y servicios.
+Un conjunto de dispositivos conectados entre sí que comparten información, recursos y servicios.
 
 * **¿Cuál es su importancia?**
 
@@ -47,20 +45,16 @@ Los físicos son los elementos que permiten conectar la red, como cables, fibra 
 
 ¿Cuál es su uso? Sirve para que los dispositivos se entiendan y puedan comunicarse de forma ordenada. En el día a día los usamos para cosas tan cotidianas como navegar por Internet, enviar archivos, mandar correos o conectarnos a otros equipos.
 
-
-
 ### LINKS
 
-### LINKS
+{% embed url="https://gitbook.com/docs" %}
 
-[Documentación oficial de GitBook](https://gitbook.com/docs)
+{% embed url="https://www.submarinecablemap.com/" %}
 
-[Mapa de cables submarinos - TeleGeography](https://www.submarinecablemap.com/)
+{% embed url="https://www.flightradar24.com/41.36,2.10/6" %}
 
-[Aviones en vuelo - FlightRadar24](https://www.flightradar24.com/)
+{% embed url="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" %}
 
-[Barcos en tiempo real - MarineTraffic](https://www.marinetraffic.com/)
+{% embed url="https://www.n2yo.com/" %}
 
-[Satélites en tiempo real - N2YO](https://www.n2yo.com/)
-
-[Salidas profesionales de ASIR](https://www.xfp.es/blog/salidas-profesionales-asir)
+{% embed url="https://www.xfp.es/blog/salidas-profesionales-asir" %}
