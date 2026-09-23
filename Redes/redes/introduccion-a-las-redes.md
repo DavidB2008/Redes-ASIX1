@@ -16,6 +16,6 @@ Por ejemplo, la red Wi‑Fi de una casa conecta los móviles, ordenadores y tele
 
 Las redes pueden ser pequeñas, como las de una casa, un aula o una empresa, o muy grandes, como Internet, que conecta millones de redes y dispositivos de todo el mundo.
 
-Para que funcionen se utilizan dispositivos como los **switches**, que conectan equipos dentro de una misma red; los **routers**, que conectan unas redes con otras y dan acceso a Internet; y los puntos de acceso, que permiten conectarse sin cables mediante Wi‑Fi.
+Para que funcionen se utilizan dispositivos como los switches, que conectan equipos dentro de una misma red; los routers, que conectan unas redes con otras y dan acceso a Internet; y los puntos de acceso, que permiten conectarse sin cables mediante Wi‑Fi.
 
 Las redes son importantes porque hacen posible gran parte de las actividades que realizamos diariamente: estudiar, trabajar, comprar por Internet, acceder a bancos online, comunicarnos y utilizar servicios digitales.
