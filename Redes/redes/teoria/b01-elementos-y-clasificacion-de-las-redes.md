@@ -23,7 +23,9 @@ La naturaleza del medio junto con la señal a transmitir constituyen un factor d
 
 ![Clasificación de las redes](../../.gitbook/assets/image)
 
-![Clasificación de las redes](<../../.gitbook/assets/image (1)>)
+![](<../../.gitbook/assets/image (1)>)
+
+<p align="center">Clasificación de las redes</p>
 
 ### Clasificación de las redes: por el alcance y extensión
 
