@@ -6,9 +6,9 @@ Cableado UTP – FTP – STP RJ45 Fibra óptica - Coaxial
 
 UPT --> CAT 6; TIA| 568; 4 pares trenzados
 
-FTP -->
+FTP --> CAT 6 / CAT 5e; TIA/EIA 568; 4 pares trenzados con pantalla global de lámina de aluminio
 
-STP -->
+STP --> CAT 6 / CAT 6a; TIA/EIA 568; 4 pares trenzados con blindaje individual por cada par y malla exterior.
 
 Cable amarillo --> CAT.5; UTP; EIA|TIA; 568B;AWM; 24AWG.
 
@@ -20,13 +20,13 @@ Tipos de cable de cobre -UTP- FTP- STP
 
 Blindaje de los cable
 
-Caracteristicas de los cables - normas -EIA/TIA 568A y B
+Características de los cables - normas -EIA/TIA 568A y B
 
-¿Que son los pares de cables?
+¿Qué son los pares de cables?
 
 RJ45 - RJ49 - RJ11 - RS232 (Consola)
 
-¿Que tipo de cable podría utilizar en industrias o cerca
+¿Qué tipo de cable podría utilizar en industrias o cerca
 
 El tipo de cable que se utiliza en la conexión determina el tipo de tarjeta de red que necesitamos. Los tipos de cableados más utilizados son:
 
