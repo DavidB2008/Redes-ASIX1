@@ -6,4 +6,4 @@ description: Introducción sección teoría de las redes
 
 Aquí nos encontraremos toda la teoría de las redes.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Foto.jpeg" alt=""><figcaption></figcaption></figure>
