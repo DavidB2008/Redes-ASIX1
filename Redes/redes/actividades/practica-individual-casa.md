@@ -70,7 +70,7 @@ El router integra ONT GPON, router y punto de acceso Wi‑Fi en un solo equipo.
 
 Todos los equipos se conectan de forma centralizada al Router Smart WiFi. Si un dispositivo se desconecta, los demás mantienen la conectividad. Si el router falla, se interrumpen la red local y el acceso a Internet.
 
-#### Diagrama de red en estrella
+#### Diagrama de red
 
 > <img src="../../.gitbook/assets/unknown.png" alt="" data-size="original">
 
