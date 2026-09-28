@@ -10,6 +10,8 @@
 
 * [Teoría](redes/teoria/README.md)
   * [📕 Introducción a las redes](redes/teoria/introduccion-a-las-redes.md)
+  * [🖥️ B01-Elementos y clasificación de las redes](redes/teoria/b01-elementos-y-clasificacion-de-las-redes.md)
+  * [🔍 Cableado | ASIX](redes/teoria/cableado-or-asix.md)
 * [Actividades](redes/actividades/README.md)
   * [🛜 Actividad introducción a redes](redes/actividades/que-porque-impacto.md)
   * [Introducción y Aula (Cableado UTP)](redes/actividades/introduccion-y-aula-cableado-utp.md)
