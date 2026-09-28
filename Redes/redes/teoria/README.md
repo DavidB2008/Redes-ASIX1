@@ -1,3 +1,3 @@
-# Teoría
+# 📚 Teoría
 
-En esta sección estará toda la teoría de las redes.
+Aquí nos encontraremos toda la teoría de redes.
