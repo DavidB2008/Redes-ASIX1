@@ -3,9 +3,9 @@ description: Análisis del cableado de aula para el módulo 0370 de ASIX.
 icon: network-wired
 ---
 
-# Práctica de Cableado de Red
+# Introducción y Aula (Cableado UTP)
 
-## Práctica de cableado de red
+## Introducción y Aula (Cableado UTP)
 
 **Módulo:** 0370 · **Ciclo formativo:** ASIX · **Alumnos:** Eulalia y David
 

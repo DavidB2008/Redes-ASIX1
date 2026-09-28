@@ -24,7 +24,15 @@ La vivienda recibe fibra **monomodo** mediante FTTH con tecnología GPON. La ins
 
 #### Router y topología
 
-El equipo principal es un **Router Smart WiFi HGU de Movistar**. Integra ONT GPON, router y punto de acceso Wi‑Fi. Cuenta con una entrada óptica SC/APC, cuatro puertos Gigabit Ethernet, un puerto RJ11 FXS y Wi‑Fi de doble banda.
+El equipo principal es un **Router Smart WiFi HGU de Movistar**. Integra ONT GPON, router y punto de acceso Wi‑Fi. El descodificador UHD Movistar+ ARRIS VIP5242A se conecta al HGU mediante Ethernet.
+
+| Elemento    | Especificación                                         |
+| ----------- | ------------------------------------------------------ |
+| Entrada WAN | Puerto óptico SC/APC para GPON                         |
+| Red local   | Cuatro puertos Gigabit Ethernet RJ45, 10/100/1000 Mb/s |
+| Telefonía   | Puerto RJ11 FXS para telefonía VoIP                    |
+| Wi‑Fi       | Doble banda: Wi‑Fi 4 en 2,4 GHz y Wi‑Fi 5 en 5 GHz     |
+| Indicadores | Estado de red, Internet, Wi‑Fi y teléfono              |
 
 La dirección IPv4 observada es `192.168.1.56`. La puerta de enlace es `192.168.1.1`.
 
@@ -64,12 +72,14 @@ Todos los equipos se conectan de forma centralizada al Router Smart WiFi. Si un 
 
 #### Diagrama de red en estrella
 
->
->
 > <img src="../.gitbook/assets/unknown.png" alt="" data-size="original">
 
 ### Fuentes consultadas
 
 * [Normas sobre cableado estructurado](https://unitel-tc.com/normas-sobre-cableado-estructurado/)
 * [Cablematic](https://cablematic.com/)
+* [UTP, FTP y STP: opciones para una instalación](http://www.cabletec.es/noticia/utp-frente-a-stp-ftp-cual-es-la-mejor-opcion-para-una-instalacion-17)
+* [Separación entre cables](https://www.syscomblog.com/2017/12/cuanto-hay-que-separar-los-cables.html)
+* [Resumen TIA/EIA-568-C](http://www.ing.ula.ve/~javierj/eslared/cableado/dia3/referencias/TIA-EIA-568-C_resumen.pdf)
 * [Cableado estructurado de una red local](https://www.adrformacion.com/knowledge/administracion-de-sistemas/el_cableado_estructurado_de_una_red_de_area_local.html)
+* [Cableado estructurado: tipos y utilidades](https://www.redestelecom.es/infraestructuras/cableado-estructurado-que-es-tipos-y-utilidades/)
