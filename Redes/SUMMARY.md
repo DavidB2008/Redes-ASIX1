@@ -9,8 +9,11 @@
 ## Redes
 
 * [📕 Introducción a las redes](redes/introduccion-a-las-redes.md)
-* [🛜 Actividad introducción a redes](redes/que-porque-impacto.md)
-* [Introducción y Aula (Cableado UTP)](redes/introduccion-y-aula-cableado-utp.md)
-* [Fibra Óptica](redes/fibra-optica.md)
-* [Cableado Estructurado y Herramientas](redes/cableado-estructurado-y-herramientas.md)
-* [Práctica Individual - Casa](redes/practica-individual-casa.md)
+
+## 📚 Actividades
+
+* [🛜 Actividad introducción a redes](actividades/que-porque-impacto.md)
+* [Introducción y Aula (Cableado UTP)](actividades/introduccion-y-aula-cableado-utp.md)
+* [Fibra Óptica](actividades/fibra-optica.md)
+* [Cableado Estructurado y Herramientas](actividades/cableado-estructurado-y-herramientas.md)
+* [Práctica Individual - Casa](actividades/practica-individual-casa.md)
