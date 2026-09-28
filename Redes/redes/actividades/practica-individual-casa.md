@@ -72,7 +72,15 @@ Todos los equipos se conectan de forma centralizada al Router Smart WiFi. Si un 
 
 #### Diagrama de red
 
-> <img src="../../.gitbook/assets/unknown.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/unknown.png" alt="" data-size="original">
+
+
+
+### Imágenes router
+
+<img src="../../.gitbook/assets/unknown (1).png" alt="" height="501" width="643">
+
+<img src="../../.gitbook/assets/unknown (2).png" alt="" height="823" width="643">
 
 ### Fuentes consultadas
 
