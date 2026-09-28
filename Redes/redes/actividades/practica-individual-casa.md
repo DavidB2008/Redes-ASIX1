@@ -78,6 +78,8 @@ Todos los equipos se conectan de forma centralizada al Router Smart WiFi. Si un 
 
 ### Imágenes router
 
+<img src="../../.gitbook/assets/unknown (3).png" alt="" height="501" width="643">
+
 <figure><img src="../../.gitbook/assets/1000035060.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Fuentes consultadas
