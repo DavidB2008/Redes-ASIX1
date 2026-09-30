@@ -18,3 +18,4 @@
   * [Fibra Óptica](redes/actividades/fibra-optica.md)
   * [Cableado Estructurado y Herramientas](redes/actividades/cableado-estructurado-y-herramientas.md)
   * [Práctica Individual - Casa](redes/actividades/practica-individual-casa.md)
+  * [M370T1A3-RJ45](redes/actividades/m370t1a3-rj45.md)
