@@ -240,6 +240,10 @@ Es la capa más cercana al usuario. Proporciona a las aplicaciones los **servici
 
 **Si falla esta capa:** servicio web caído, DNS sin responder, servidor de correo mal configurado o aplicación que utiliza incorrectamente el protocolo.
 
+#### Imagen Capas Modelo OSI
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ## 4. ¿Cómo trabajan juntas las siete capas?
 
 Cuando envías un mensaje, abres una página web o transfieres un archivo, no trabaja una única capa: **todas colaboran**.
