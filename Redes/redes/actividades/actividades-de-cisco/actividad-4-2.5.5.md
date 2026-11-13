@@ -51,21 +51,13 @@ Responda las siguientes preguntas:
 
 ¿Cuántas interfaces Fast Ethernet tiene el switch? Tiene 24 interfaces desde el FastEthernet 0/1 a 0/24.
 
-Escriba sus respuestas aquí.
-
 ¿Cuántas interfaces Gigabit Ethernet tiene el switch? Tiene 2 interfaces el GigabitEthernet 0/1 y GigabitEthernet 0/2.
-
-Escriba sus respuestas aquí.
 
 ¿Cuál es el rango de valores que se muestra para las líneas vty? De 0 a 15.
 
-Escriba sus respuestas aquí.
-
-¿Qué comando muestra el contenido actual de la memoria de acceso aleatorio no volátil (NVRAM)? show startup-config Escriba sus respuestas aquí.
+¿Qué comando muestra el contenido actual de la memoria de acceso aleatorio no volátil (NVRAM)? show startup-config
 
 ¿Por qué el conmutador responde con "startup-config no está presente"? Porque el switch se encuentra con la configuración predeterminada de fábrica y todavía no se ha guardado ningún archivo de configuración en la NVRAM.
-
-Escriba sus respuestas aquí.
 
 #### Parte 2: Cree una configuración básica del switch
 
@@ -179,8 +171,6 @@ Nota: Puede abreviar show running-config como show run.
 
 ¿Qué se muestra como contraseña de enable secret? Una cadena larga de caracteres cifrados mediante un algoritmo hash.
 
-Escriba sus respuestas aquí.
-
 ¿Por qué la contraseña de enable secret se ve diferente de lo que se configuró? Porque se almacena de forma encriptada e irreversible por motivos de seguridad.
 
 **Paso 8: Encripte las contraseñas de consola y de enable.**
@@ -196,8 +186,6 @@ S1(config)# exit
 **Pregunta:**
 
 Si configura más contraseñas en el switch, ¿se mostrarán como texto no cifrado o en forma cifrada en el archivo de configuración? Explique. Sí, aparecerán cifradas. Como ya activamos el comando service password-encryption, el switch se encarga de proteger automáticamente cualquier contraseña nueva que pongas de ahí en adelante para que no se lea a simple vista.
-
-Escriba sus respuestas aquí.
 
 #### Parte 3: Configure un aviso de MOTD
 
@@ -217,11 +205,7 @@ S1#
 
 ¿Cuándo se muestra este aviso? Aparece en pantalla inmediatamente antes de que el usuario inicie sesión en el switch.
 
-Escriba sus respuestas aquí.
-
 ¿Por qué todos los switches deben tener un aviso de MOTD? Para advertir formal y legalmente a los usuarios no autorizados que el acceso está prohibido y restringido, lo cual es fundamental para políticas de seguridad.
-
-Escriba sus respuestas aquí.
 
 #### Parte 4: Guarde y verifique archivos de configuración en NVRAM
 
@@ -246,11 +230,7 @@ Examine el archivo de configuración de inicio.
 
 ¿Qué comando muestra el contenido de la NVRAM? Muestra el comando show startup-config.
 
-Escriba sus respuestas aquí.
-
 ¿Todos los cambios realizados están grabados en el archivo? Sí, una vez ejecutado el comando de copia, la configuración actual pasa de la memoria RAM a guardarse de forma permanente en la NVRAM.
-
-Escriba sus respuestas aquí.
 
 #### Parte 5: Configurar S2
 
@@ -275,5 +255,3 @@ f. Asegúrese de que la configuración sea correcta.
 g. Guarde el archivo de configuración para evitar perderlo si el switch se apaga.
 
 h. Cierre la ventana de configuración para S2
-
-Fin del documento

@@ -27,8 +27,6 @@ La barra de herramientas de iconos en la esquina inferior izquierda tiene varias
 
 ¿Cuáles son las subcategorías de Dispositivos de Red? Las subcategorías son los routers, switches, hubs, wireless devices, security y WAN emulation.
 
-Escriba sus respuestas aquí.
-
 #### Parte 2: Investigar Dispositivos en un Armario de Cableado
 
 a. Si fuiste a explorar, vuelve a modo Físico e Intercity ahora. En la barra azul superior, haga clic en Físico y, a continuación, utilice los botones Panel de Navegación o Nivel Atrás para desplazarse a Intercity.
@@ -43,15 +41,11 @@ d. Debajo del router hay dos switches. Estos switches proporcionan conexiones po
 
 ¿Qué dispositivos utilizan una conexión por cable para conectarse al switch ALS2? Los dispositivos son el web server, backup router, PC\_1 y otros dispositivos finales de la red de la sucursal.
 
-Escriba sus respuestas aquí.
+e. Debajo de los switches del Rack se encuentra un punto de acceso inalámbrico denominado Access\_Point. Los puntos de acceso inalámbricos utilizan una conexión inalámbrica para conectarse a otros dispositivos. Cambie al modo Lógico. ¿Qué dispositivo está conectado a Access\_Point? Es el dispositivo Laptop 1.&#x20;
 
-e. Debajo de los switches del Rack se encuentra un punto de acceso inalámbrico denominado Access\_Point. Los puntos de acceso inalámbricos utilizan una conexión inalámbrica para conectarse a otros dispositivos. Cambie al modo Lógico. ¿Qué dispositivo está conectado a Access\_Point? Es el dispositivo Laptop 1. Es el único portátil configurado con el SSID Branch Office, el mismo del Access Point, y se conecta de forma inalámbrica.
-
-Escriba sus respuestas aquí.
+Es el único portátil configurado con el SSID Branch Office, el mismo del Access Point, y se conecta de forma inalámbrica.
 
 f. Cambie al modo Físico. Deberías estar de vuelta en el Armario de Cableado de la Sucursal. ¿Dónde se encuentra físicamente el dispositivo conectado a Access\_Point? En el armario de cableado de la sucursal de Seward (Intercity > Seward > Sucursal > Armario de Cableado), encima de la mesa. No está en el rack: el Access Point sí está en el Rack, pero el portátil se conecta por WiFi desde la mesa.
-
-Escriba sus respuestas aquí.
 
 #### Parte 3: Conectar Dispositivos Finales a Dispositivos de Red
 
@@ -146,7 +140,3 @@ g. Observe que el nombre para mostrar de Backup\_Router no ha cambiado. Haga cli
 #### Parte 6: Explora el resto de la Red
 
 Tómese un tiempo para explorar el resto de la red. Familiarícese con las representaciones de red en los modos Lógico y Físico. En el modo Físico, vaya a otras áreas, como el Centro de Datos de Wellington y el hogar de Teleworker. Las tecnologías utilizadas en estos lugares se analizan con mayor detalle en los cursos de Cisco Networking Academy. Por ahora, vea lo que puede descubrir por su cuenta. No se preocupe por romper nada. Siempre puede cerrar Packet Tracer y abrir una copia nueva para empezar a explorar de nuevo.
-
-Escriba sus respuestas aquí.
-
-Fin del documento

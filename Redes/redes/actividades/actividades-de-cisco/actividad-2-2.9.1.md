@@ -43,7 +43,3 @@ Configuración guardada en la memoria NVRAM mediante el comando write / copy run
 * Verifique la conectividad entre todos los dispositivos.
 
 Nota: Hag clic en Check Results para ver su progreso. Haga clic en Reset Activity para generar un nuevo conjunto de requisitos. Si hace clic en esto antes de completar la actividad, se perderán todas las configuraciones.
-
-ID: \[\[indexNames]]\[\[indexPWs]]\[\[indexAdds]]\[\[indexTopos]]
-
-Fin del documento
