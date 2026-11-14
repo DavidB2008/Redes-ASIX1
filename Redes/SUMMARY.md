@@ -29,5 +29,5 @@
     * [Informe actividad 3 (1.5.7)](redes/actividades/actividades-de-cisco/informe-actividad-3-1.5.7.md)
     * [Actividad 4 (2.5.5)](redes/actividades/actividades-de-cisco/actividad-4-2.5.5.md)
     * [Informe actividad 4 (2.5.5)](redes/actividades/actividades-de-cisco/informe-actividad-4-2.5.5.md)
-    * [Actividad 5 (9.2.9)](redes/actividades/actividades-de-cisco/actividad-5-9.2.9.md)
+    * [Packet Tracer: Revisión de la tabla ARP](redes/actividades/actividades-de-cisco/packet-tracer-revision-de-la-tabla-arp.md)
     * [Informe actividad 5 (9.2.9)](redes/actividades/actividades-de-cisco/informe-actividad-5-9.2.9.md)
