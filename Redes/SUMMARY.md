@@ -16,6 +16,7 @@
   * [📡 Comunicación y protocolos de red](redes/teoria/comunicacion-y-protocolos-de-red.md)
   * [🌐 Modelo TCP/IP](redes/teoria/modelo-tcp-ip.md)
   * [🔄 ATM: modo de transferencia asíncrona](redes/teoria/atm-modo-de-transferencia-asincrona.md)
+  * [⌨️ DNS](redes/teoria/dns.md)
 * [📝 Actividades](redes/actividades/README.md)
   * [🛜 Actividad introducción a redes](redes/actividades/que-porque-impacto.md)
   * [Introducción y Aula (Cableado UTP)](redes/actividades/introduccion-y-aula-cableado-utp.md)
