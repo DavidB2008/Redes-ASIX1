@@ -8,6 +8,6 @@ El objetivo principal de esta práctica ha sido explorar y comprender la represe
 
 Para comenzar, he analizado la topología identificando los dispositivos finales e intermediarios, las 3 LANs, las 2 WANs, el modelo cliente-servidor y los métodos de acceso a Internet, además de resolver las preguntas teóricas y los desafíos sobre direccionamiento IP y enrutamiento.
 
-## Breve resumen del ejercicio y como lo he hecho
+## ¿Qué he aprendido?
 
-En resumen, en esta práctica aprendí a reconocer los elementos que componen una arquitectura de red compleja y cómo se interconectan entre sí. Analicé el papel del modelo cliente-servidor, diferencié el alcance de una LAN frente a una WAN y revisé la importancia del direccionamiento IP y el enrutamiento para lograr conectividad total en Packet Tracer.
+He aprendido a identificar los diferentes elementos de una topología de red, distinguir entre dispositivos finales e intermediarios y comprender las diferencias entre una red LAN y una WAN. También he aprendido el funcionamiento básico del modelo cliente-servidor, los diferentes medios de transmisión y la importancia del direccionamiento IP y del enrutamiento para permitir la comunicación entre redes.

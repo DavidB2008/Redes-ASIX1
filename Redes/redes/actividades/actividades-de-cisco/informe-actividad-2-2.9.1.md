@@ -8,6 +8,6 @@ El objetivo principal de esta práctica ha sido realizar el despliegue e integra
 
 Para hacer el ejercicio, he configurado las IP de los ordenadores (User-01 y User-02), lo he conectado a los switches mediante cables de consola y accedimos a su CLI. Desde ahí, personalizamos los nombres (ASw-1 y ASw-2), aseguramos el acceso con las contraseñas (6EBUp y xAw6k), ciframos los textos y añadimos un mensaje MOTD. Por último, configuramos y levantamos las interfaces virtuales VLAN 1 con sus respectivas IPs, guardando finalmente todos los cambios en la memoria del equipo para alcanzar el 100%.
 
-## Breve resumen del ejercicio y como lo he hecho
+## ¿Qué he aprendido?
 
-En resumen, en esta práctica aprendí a configurar la seguridad y conectividad de switches Cisco desde la terminal de un PC. Conecté el cable de consola azul desde el puerto RS232 al puerto Console de ASw-1 y, desde la terminal del ordenador, configuré su nombre, las contraseñas (6EBUp y xAw6k), el cifrado, la IP 10.10.10.100 en la VLAN 1 y guardé los cambios. Luego repetí el proceso en ASw-2 con la IP 10.10.10.150 y completé el ejercicio al 100%.
+He aprendido a realizar la configuración básica de switches Cisco mediante la CLI, configurar direcciones IP en ordenadores y en la interfaz VLAN 1, proteger el acceso mediante contraseñas y cifrado, configurar un mensaje MOTD y guardar la configuración para que los cambios se mantengan después de reiniciar el equipo.

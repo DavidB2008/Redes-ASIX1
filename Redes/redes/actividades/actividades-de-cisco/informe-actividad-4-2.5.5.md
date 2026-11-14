@@ -8,6 +8,6 @@ El objetivo principal de esta práctica ha sido realizar la configuración inici
 
 Para comenzar, accedí a la terminal de S1 y S2 para configurar sus nombres, proteger la consola y el modo privilegiado con contraseñas, cifrar los textos planos, añadir el banner de seguridad y guardar los cambios en la NVRAM para alcanzar el 100%.
 
-## Breve resumen del ejercicio y como lo he hecho
+## ¿Qué he aprendido?
 
-En resumen, en esta práctica aprendí a configurar la seguridad básica y el acceso administrativo en los switches S1 y S2 desde el IOS, aplicando contraseñas, cifrado y guardando los cambios en la NVRAM.
+He aprendido a realizar la configuración inicial de un switch Cisco desde la CLI y a aplicar medidas básicas de seguridad. También he aprendido a configurar contraseñas para la consola y el modo privilegiado, utilizar el cifrado de contraseñas, configurar un mensaje MOTD y guardar la configuración en la NVRAM para conservar los cambios.
