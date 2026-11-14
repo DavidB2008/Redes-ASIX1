@@ -31,3 +31,4 @@
     * [Informe actividad 4 (2.5.5)](redes/actividades/actividades-de-cisco/informe-actividad-4-2.5.5.md)
     * [Actividad 5 (9.2.9)](redes/actividades/actividades-de-cisco/actividad-5-9.2.9.md)
     * [Informe actividad 5 (9.2.9)](redes/actividades/actividades-de-cisco/informe-actividad-5-9.2.9.md)
+    * [PKA ejercicios cisco](redes/actividades/actividades-de-cisco/pka-ejercicios-cisco.md)
