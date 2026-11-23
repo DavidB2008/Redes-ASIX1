@@ -39,6 +39,8 @@ La siguiente configuración intenta mostrar lo que sería tener una red de una e
 
 Nota: Trae de casa la topología de la red con todos los dispositivos conectados.
 
+<img src="../../../.gitbook/assets/Pasted image 2026-11-23 19.23.11.png" alt="" height="306" width="643">
+
 ## Dispositivos a utilizar:
 
 Tenemos las redes: LAN1-empresa, LAN2-casa y el ISP
@@ -108,6 +110,8 @@ Desde el equipo de empresa abrimos el Command Prompt, ejecutamos ftp 30.0.0.2, i
 
 En este caso vamos a configurar una ACL estándar (1 – 99) donde estaríamos habilitando el bloqueo del protocolo HTTP a través del puerto 80 a los dispositivos especificados en la lista (en este ejemplo solo el PC con IP: 192.168.0.102).
 
+<img src="../../../.gitbook/assets/Pasted image 2026-11-23 19.21.27.png" alt="" height="461" width="468">
+
 Nota: Testear qué ocurre si únicamente bloqueamos el puerto 80 del protocolo HTTP y no lo hacemos para el puerto 443 de HTTPS.
 
 Al bloquear únicamente el puerto 80 el equipo deja de poder navegar por páginas web sin cifrar, pero sigue accediendo con normalidad a todas las webs seguras que funcionan sobre HTTPS por el puerto 443 para cortar por completo la navegación web en ese dispositivo es necesario bloquear ambos puertos el 80 y el 443.
@@ -161,6 +165,8 @@ Se conectó un Access Point al switch de la empresa con el SSID Empresa\_wifi, s
 
     En el servidor FTP 30.0.0.2 entramos en Services > DHCP, encendemos el servicio, configuramos un pool con Default Gateway 30.0.0.1, DNS Server 8.8.8.8, Start IP Address 30.0.0.10 y Subnet Mask 255.0.0.0, y guardamos. Después ponemos DHCP en IP Configuration de los dos PCs.
 2. Habilita el servicio FTP, aunque es más interesante desde Linux 😉
+
+<img src="../../../.gitbook/assets/Pasted image 2026-11-23 19.19.23.png" alt="" height="255" width="494">
 
 Conéctate desde un equipo cualquiera al servidor donde hayas habilitado el servicio de FTP.
 
@@ -265,4 +271,8 @@ Puertos dinámicos o privados (Dynamic / Ephemeral Ports, 49152 – 65535): No e
 
 Captura 1: Comprobación de conectividad ping y conexión FTP al servidor 30.0.0.2 con el usuario cisco desde el equipo de Empresa.
 
+<img src="../../../.gitbook/assets/Pasted image 2026-11-23 19.17.37.png" alt="" height="433" width="437">
+
 Captura 2: Listado de archivos del directorio /ftp dir dentro de la sesión FTP en 30.0.0.2.
+
+<img src="../../../.gitbook/assets/Pasted image 2026-11-23 19.18.00.png" alt="" height="369" width="443">
