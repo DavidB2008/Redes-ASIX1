@@ -38,3 +38,4 @@
     * [PKA ejercicios cisco](redes/actividades/actividades-de-cisco/pka-ejercicios-cisco.md)
   * [M0370T1A5-allCisco](redes/actividades/m0370t1a5-allcisco/README.md)
     * [M370T2A3-Cisco](redes/actividades/m0370t1a5-allcisco/m370t2a3-cisco.md)
+    * [PKT de la actividad](redes/actividades/m0370t1a5-allcisco/pkt-de-la-actividad.md)
